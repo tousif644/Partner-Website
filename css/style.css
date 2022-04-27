@@ -88,7 +88,18 @@ body {
 }
 
 /* graph section */
+/* contact-section */
+.contact-title {
+    font-size: 48px;
+}
 
+.contact-description {
+    font-weight: 500;
+    line-height: 33px;
+    font-size: 18px;
+}
+
+/* contact-section */
 /* choose-section */
 .choose-bg {
     background-color: #000000;
@@ -109,7 +120,8 @@ body {
     border: 1px solid #707070;
     width: 393px;
 }
-.exclusive-title{
+
+.exclusive-title {
     color: #000000;
     font-size: 48px;
     font-weight: 500;
@@ -117,10 +129,19 @@ body {
 
 /* Exclusive section */
 /* footer */
-.footer{
+.footer {
     background-image: url("../assets/image/footer.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.outline-text {
+    color: black;
+    -webkit-text-fill-color: white;
+    /* Will override color (regardless of order) */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
 /* footer */
