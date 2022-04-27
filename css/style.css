@@ -116,3 +116,11 @@ body {
 }
 
 /* Exclusive section */
+/* footer */
+.footer{
+    background-image: url("../assets/image/footer.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/* footer */
