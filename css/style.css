@@ -66,10 +66,53 @@ body {
 
 /* Logo Section */
 /* future section */
-.future-title{
+.future-title {
     color: #000000;
     font-size: 52px;
     font-weight: 600;
     /* border: 2px solid #000000; */
 }
+
 /* future section */
+
+
+/* graph section */
+.graph-section {
+    background: rgba(242, 241, 236, 1);
+}
+
+.graph-title {
+    font-weight: 400, bold;
+    font-size: 52px;
+    color: #000000;
+}
+
+/* graph section */
+
+/* choose-section */
+.choose-bg {
+    background-color: #000000;
+    background-image: url("../assets/image/choose-section/choose-bg.png");
+    background-repeat: no-repeat;
+}
+
+.circle {
+    background: url("../assets/image/choose-section/circle.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+/* choose-section */
+/* Exclusive section */
+.exclusive-section .bar {
+    opacity: 0.34;
+    border: 1px solid #707070;
+    width: 393px;
+}
+.exclusive-title{
+    color: #000000;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+/* Exclusive section */
